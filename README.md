@@ -1,5 +1,4 @@
 # 基于深度学习的进出识别系统
-# 基于深度学习的进出识别系统
 
 [English Edition](./README_EN.md) | 中文版
 > A PyQt5-based entry/exit counting system powered by YOLOv8 object detection & tracking.
