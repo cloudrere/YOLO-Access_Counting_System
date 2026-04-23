@@ -1,7 +1,6 @@
 # 基于深度学习的进出识别系统
 
-中文版获取源码请加微信（备注来意，有偿服务）
-<img width="1268" height="1729" alt="wechat" src="https://github.com/user-attachments/assets/e577994d-a4c6-4c3e-a44a-b4f167ae5e76" />
+中文版
 
 > A PyQt5-based entry/exit counting system powered by YOLOv8 object detection & tracking.
 
@@ -13,6 +12,12 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 
 ---
+
+<img width="400" alt="主界面" src="https://github.com/user-attachments/assets/5f28244c-91a8-460f-b992-b13f20d6da80" />
+<img width="400" alt="类别筛选" src="https://github.com/user-attachments/assets/fe3f5606-986b-496a-b0c3-04137d95a518" />
+<img width="400" alt="自定义开始离开区域" src="https://github.com/user-attachments/assets/587f856f-1f98-4648-be0b-06c2d9c376a4" />
+<img width="400" alt="跟踪计数" src="https://github.com/user-attachments/assets/87aaa5ce-0f99-4639-9b5f-dac393f2317a" />
+
 
 ## 📖 目录
 
@@ -416,7 +421,8 @@ E:\software\ADeepLearning\Anaconda\envs\yolo\python.exe -m pip install lapx
 ---
 
 ## 📞 联系方式
-
+获取源码请加微信（备注来意，有偿服务）
+<img width="1268" height="1729" alt="wechat" src="https://github.com/user-attachments/assets/e577994d-a4c6-4c3e-a44a-b4f167ae5e76" />
 - 项目问题：提交 Issue
 - 技术交流：欢迎 PR
 
